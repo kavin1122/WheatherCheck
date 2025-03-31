@@ -1,0 +1,32 @@
+
+body{
+  text-align: center;
+  background-color: azure;
+}
+#button:hover{
+  cursor: pointer;
+}
+h1{
+  font-style: italic;
+}
+button{
+  background-color: rgb(140, 139, 237);
+  height: 25px;
+  border-radius: 5px;
+  font-style: italic;
+  
+}
+input{
+  height: 25px;
+  border-radius: 5px;
+  font-style: italic;
+  text-align: center;
+}
+.container{
+
+  height: 60px;
+  width: 200px;
+  align-items: center;
+
+}
+
